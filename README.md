@@ -17,9 +17,15 @@ Each file includes **time and space complexities** in comments for quick referen
 
 ## Python Solutions
 
-A list of all my Python LeetCode solutions. Click the links to view the code:
+A list of all my Python LeetCode solutions, organized by difficulty. Click the links to view the code.
+
+### 🟢 Easy
+
+### 🟡 Medium
 
 - [2353_design-a-food-rating-system](Python/2353_design-a-food-rating-system.md)
+
+### 🔴 Hard
 
 ---
 
