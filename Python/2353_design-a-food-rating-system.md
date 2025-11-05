@@ -39,7 +39,7 @@ class FoodRatings:
 
 # SortedList + reverse rating(decending order)
 
-- Still way slower than heap donoo why!
+- Still way slower than heap donoo why! but way cheaper in terms of space compared to heap
 - **Time Complexity** ->
 - **Space Complexity** ->
 
@@ -74,7 +74,7 @@ class FoodRatings:
 
 # SortedList + invert name (ascending order)
 
-- slowest of them all the invert func slows it
+- slowest of them all the invert func slows it. but way cheaper in terms of space compared to heap even got beats 98.83% in space
 - **Time Complexity** ->
 - **Space Complexity** ->
 
