@@ -10,8 +10,16 @@ Each file includes **time and space complexities** in comments for quick referen
 
 - No fixed structure — I just drop the code once I finish a problem.
 - May contain multiple solutions for the same problem (brute, optimal, etc.).
-- Languages vary ( mostly Python ).
+- Languages vary (mostly Python).
 - Goal: keep everything in one place, nothing polished.
+
+---
+
+## Python Solutions
+
+A list of all my Python LeetCode solutions. Click the links to view the code:
+
+- [2353_design-a-food-rating-system](Python/2353_design-a-food-rating-system.md)
 
 ---
 
