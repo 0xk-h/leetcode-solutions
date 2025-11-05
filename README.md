@@ -27,6 +27,8 @@ A list of all my Python LeetCode solutions, organized by difficulty. Click the l
 
 ### 🔴 Hard
 
+- [3321_find-x-sum-of-all-k-long-subarrays-ii](Python/3321_find-x-sum-of-all-k-long-subarrays-ii.md)
+
 ---
 
 ## About
