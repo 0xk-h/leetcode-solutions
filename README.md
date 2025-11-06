@@ -24,6 +24,7 @@ A list of all my Python LeetCode solutions, organized by difficulty. Click the l
 ### 🟡 Medium
 
 - [2353_design-a-food-rating-system](Python/2353_design-a-food-rating-system.md)
+- [3607_power-grid-maintenance](Python/3607_power-grid-maintenance.md)
 
 ### 🔴 Hard
 
