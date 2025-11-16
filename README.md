@@ -27,6 +27,7 @@ A list of all my Python LeetCode solutions, organized by difficulty. Click the l
 - [3607_power-grid-maintenance](Python/3607_power-grid-maintenance.md)
 - [2536_increment-submatrices-by-one](Python/2536_increment-submatrices-by-one.md)
 - [1513_number-of-substrings-with-only-1s](Python/1513_number-of-substrings-with-only-1s.md)
+- [3747_count-distinct-integers-after-removing-zeros](Python/3747_count-distinct-integers-after-removing-zeros.md)
 
 ### 🔴 Hard
 
