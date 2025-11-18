@@ -21,6 +21,8 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 
 ### 🟢 Easy
 
+- [717_1-bit-and-2-bit-characters](Python/717_1-bit-and-2-bit-characters.md)
+
 ### 🟡 Medium
 
 - [2353_design-a-food-rating-system](Python/2353_design-a-food-rating-system.md)
