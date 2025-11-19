@@ -2,7 +2,7 @@
 
 A collection of my LeetCode problem solutions.  
 Sometimes I solve the same problem in multiple ways or languages — all versions are kept here.  
-Each file includes **time and space complexities** in comments for quick reference.
+Each file includes **time and space complexities** for quick reference.
 
 ---
 
@@ -35,6 +35,7 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 ### 🔴 Hard
 
 - [3321_find-x-sum-of-all-k-long-subarrays-ii](Python/3321_find-x-sum-of-all-k-long-subarrays-ii.md)
+- [42_trapping-rain-water](Python/42_trapping-rain-water.md)
 
 ---
 
