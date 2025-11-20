@@ -37,7 +37,8 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 - [3321_find-x-sum-of-all-k-long-subarrays-ii](Python/3321_find-x-sum-of-all-k-long-subarrays-ii.md)
 - [42_trapping-rain-water](Python/42_trapping-rain-water.md)
 - [84_largest-rectangle-in-histogram](Python/84_largest-rectangle-in-histogram.md)
-- [median-of-two-sorted-arrays](Python/4_median-of-two-sorted-arrays.md)
+- [4_median-of-two-sorted-arrays](Python/4_median-of-two-sorted-arrays.md)
+- [757_set-intersection-size-at-least-two](Python/757_set-intersection-size-at-least-two.md)
 
 ---
 
