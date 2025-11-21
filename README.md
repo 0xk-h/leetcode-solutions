@@ -40,6 +40,8 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 - [84_largest-rectangle-in-histogram](Python/84_largest-rectangle-in-histogram.md)
 - [4_median-of-two-sorted-arrays](Python/4_median-of-two-sorted-arrays.md)
 - [757_set-intersection-size-at-least-two](Python/757_set-intersection-size-at-least-two.md)
+- [76_minimum-window-substring](Python/76_minimum-window-substring.md)
+- [239_sliding-window-maximum](Python/239_sliding-window-maximum.md)
 
 ---
 
