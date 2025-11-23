@@ -32,6 +32,7 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 - [1513_number-of-substrings-with-only-1s](Python/1513_number-of-substrings-with-only-1s.md)
 - [3747_count-distinct-integers-after-removing-zeros](Python/3747_count-distinct-integers-after-removing-zeros.md)
 - [1930_unique-length-3-palindromic-subsequences](Python/1930_unique-length-3-palindromic-subsequences.md)
+- [1262_greatest-sum-divisible-by-three](Python/1262_greatest-sum-divisible-by-three.md)
 
 ### 🔴 Hard
 
