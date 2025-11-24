@@ -23,6 +23,7 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 
 - [717_1-bit-and-2-bit-characters](Python/717_1-bit-and-2-bit-characters.md)
 - [1437_check-if-all-1s-are-at-least-length-k-places-away](Python/1437_check-if-all-1s-are-at-least-length-k-places-away.md)
+- [1018_binary-prefix-divisible-by-5](Python/1018_binary-prefix-divisible-by-5.md)
 
 ### 🟡 Medium
 
