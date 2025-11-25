@@ -47,6 +47,7 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 - [239_sliding-window-maximum](Python/239_sliding-window-maximum.md)
 - [23_merge-k-sorted-lists](Python/23_merge-k-sorted-lists.md)
 - [25_reverse-nodes-in-k-group](Python/25_reverse-nodes-in-k-group.md)
+- [124_binary-tree-maximum-path-sum](Python/124_binary-tree-maximum-path-sum.md)
 
 ---
 
