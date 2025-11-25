@@ -35,6 +35,7 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 - [3747_count-distinct-integers-after-removing-zeros](Python/3747_count-distinct-integers-after-removing-zeros.md)
 - [1930_unique-length-3-palindromic-subsequences](Python/1930_unique-length-3-palindromic-subsequences.md)
 - [1262_greatest-sum-divisible-by-three](Python/1262_greatest-sum-divisible-by-three.md)
+- [752_open-the-lock](Python/752_open-the-lock.md)
 
 ### 🔴 Hard
 
