@@ -51,6 +51,7 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 - [124_binary-tree-maximum-path-sum](Python/124_binary-tree-maximum-path-sum.md)
 - [297_serialize-and-deserialize-binary-tree](Python/297_serialize-and-deserialize-binary-tree.md)
 - [2435_paths-in-matrix-whose-sum-is-divisible-by-k](Python/2435_paths-in-matrix-whose-sum-is-divisible-by-k.md)
+- [212_word-search-ii](Python/212_word-search-ii.md)
 
 ---
 
