@@ -37,6 +37,7 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 - [1262_greatest-sum-divisible-by-three](Python/1262_greatest-sum-divisible-by-three.md)
 - [752_open-the-lock](Python/752_open-the-lock.md)
 - [3381_maximum-subarray-sum-with-length-divisible-by-k](Python/3381_maximum-subarray-sum-with-length-divisible-by-k.md)
+- [355_design-twitter](Python/355_design-twitter.md)
 
 ### 🔴 Hard
 
