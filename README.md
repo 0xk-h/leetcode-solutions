@@ -56,6 +56,7 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 - [2435_paths-in-matrix-whose-sum-is-divisible-by-k](Python/2435_paths-in-matrix-whose-sum-is-divisible-by-k.md)
 - [212_word-search-ii](Python/212_word-search-ii.md)
 - [295_find-median-from-data-stream](Python/295_find-median-from-data-stream.md)
+- [51_n-queens](Python/51_n-queens.md)
 
 ---
 
