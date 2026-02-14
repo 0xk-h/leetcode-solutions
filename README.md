@@ -39,6 +39,7 @@ A list of some of my Python LeetCode solutions, organized by difficulty. Click t
 - [3381_maximum-subarray-sum-with-length-divisible-by-k](Python/3381_maximum-subarray-sum-with-length-divisible-by-k.md)
 - [355_design-twitter](Python/355_design-twitter.md)
 - [1015_smallest-integer-divisible-by-k](Python/1015_smallest-integer-divisible-by-k.md)
+- [307_range-sum-query-mutable](Python/307_range-sum-query-mutable.md)
 
 ### 🔴 Hard
 
